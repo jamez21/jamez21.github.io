@@ -1,0 +1,52 @@
+body{
+    margin:auto;
+    font-family:Calibri,Arial,sans-serif;
+    width:800px;
+    height:80%;
+}
+div.relativep{
+    position:relative;
+    width:800px;
+    height:200px;
+}
+div.absolutep{
+    position:absolute;
+    left:0px;
+    width:550px;
+}
+
+img {
+    position: absolute;
+    right:0px;
+    height: 200px;
+	width: 200px;
+    
+}
+    
+.bold{
+    font-weight: bold;
+}
+
+.tdtitle{
+    text-align:right;
+}
+
+table{
+    margin:auto;
+    width:70%;
+    
+}
+
+td{
+    padding:10px;
+    padding-bottom:10px;
+}
+
+.tdborder{
+    border-left: 3px solid grey;
+}
+
+h3{
+    font-style:italic;
+}
+
